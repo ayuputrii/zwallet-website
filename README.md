@@ -1,5 +1,5 @@
 ### Release:
-[Application Zwallet Webi Version Mobile](https://zwalletbi.web.app)
+[Application Zwallet Webi Version Website](https://zwalletbi.web.app)
 
 ### Penjelasan:
   Aplication Zwallet Webi ini digunakan sebagai payment online antara satu pengguna dengan
