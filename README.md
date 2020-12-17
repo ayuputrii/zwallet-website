@@ -10,7 +10,7 @@
 <p align="center">
  You Need a Fast Transactions?
 <br/>
-Let's just go to<strong>Zwallet Webi</strong>!
+Let's just go to <strong>Zwallet Webi</strong>!
 </p>
 
 ### Release:
