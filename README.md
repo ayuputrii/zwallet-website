@@ -85,13 +85,13 @@ The Zwallet Webi application is used as an online payment between one user and o
 
 <img src="https://user-images.githubusercontent.com/46896802/102500631-19b9e600-40af-11eb-9ba6-4ec5a11fe35f.png" width="200">
 
-### install dependencies using npm or yarn
+### Install dependencies using npm or yarn
 
 ```
 yarn OR npm i
 ```
 
-### running App
+### Running App
 
 ```
 yarn android or react-native run-android
