@@ -1,8 +1,6 @@
 <h1 align="center">
-<a href="#" color="blue">
-
-### Zwallet Webi
-
+<a href="#">
+Zwallet Webi
 </a>
 
 </h1>
