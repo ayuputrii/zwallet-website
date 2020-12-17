@@ -61,21 +61,17 @@ The Zwallet Webi application is used as an online payment between one user and o
 
 ✨ Transfer
 
-<img src="https://user-images.githubusercontent.com/46896802/101995123-5fb32a80-3cfa-11eb-9368-8b018be39a98.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/46896802/102502559-58e93680-40b1-11eb-9411-b64d37b9bd0c.png" width="200">
 
-<img src="https://user-images.githubusercontent.com/46896802/101994850-4f9a4b80-3cf8-11eb-8760-e5dc4a71fc69.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/46896802/102502564-5a1a6380-40b1-11eb-8d3b-4336d8cb6d86.png" width="200">
 
-<img src="https://user-images.githubusercontent.com/46896802/101994847-48733d80-3cf8-11eb-94d0-10a36f47192e.jpg" width="200">
-
-<img src="https://user-images.githubusercontent.com/46896802/101994839-35606d80-3cf8-11eb-9ec7-e06a175c08ed.jpg" width="200">
-
-<img src="https://user-images.githubusercontent.com/46896802/101994843-40b39900-3cf8-11eb-9c81-3468dd12c07e.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/46896802/102502566-5ab2fa00-40b1-11eb-82ce-1757031f7869.png" width="200">
 
 ✨ Profile
 
 <img src="https://user-images.githubusercontent.com/46896802/102500610-145c9b80-40af-11eb-86dc-ee751d8fc7ac.png" width="200">
 
-<img src="https://user-images.githubusercontent.com/46896802/102500616-16265f00-40af-11eb-8ec3-e8a09d4612d7.png" width="200">
+<img src="https://user-images.githubusercontent.com/46896802/102502569-5b4b9080-40b1-11eb-8998-b465f6094dc3.png" width="200">
 
 <img src="https://user-images.githubusercontent.com/46896802/102500618-16bef580-40af-11eb-884a-da35c3a478aa.png" width="200">
 
