@@ -37,8 +37,6 @@ The Zwallet Webi application is used as an online payment between one user and o
 
 ### Screenshoot Application:
 
-### Screenshoot Application
-
 ✨ Splach Screen
 
 <img src="https://user-images.githubusercontent.com/46896802/102500524-fdb64480-40ae-11eb-93a4-428fd3f7649a.png" width="200">
