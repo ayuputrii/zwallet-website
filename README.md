@@ -1,6 +1,8 @@
 <h1 align="center">
 <a href="#" color="blue">
-Zwallet Webi
+   
+   ### Zwallet Webi
+
 </a>
 
 </h1>
@@ -25,13 +27,14 @@ The Zwallet Webi application is used as an online payment between one user and o
 
 ### Pemograman Language:
 
-✨ Node JS
-✨ Express JS
-✨ React JS
+✨ [Expres Js](https://expressjs.com/)
+✨ [Node JS](https://nodejs.org/en/)
+✨ [React JS](https://reactjs.org/)
 
 ### Database:
 
-✨ MySQL
+✨ [MySQL](https://www.mysql.com/)
+- [Using to Backend this program](https://github.com/ayuputrii/zwebsite.git)
 
 ### Screenshoot Application:
 
@@ -90,5 +93,5 @@ yarn OR npm i
 ### Running App
 
 ```
-yarn android or react-native run-android
+yarn android and yarn start or react-native run-android
 ```
