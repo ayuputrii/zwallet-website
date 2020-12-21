@@ -1,6 +1,8 @@
 <h1 align="center">
-<a href="#">
-Zwallet Webi
+<a href="#" color="blue">
+
+### Zwallet Webi
+
 </a>
 
 </h1>
@@ -43,45 +45,45 @@ The Zwallet Webi application is used as an online payment between one user and o
 
 ✨ SignIn
 
-<img src="https://user-images.githubusercontent.com/46896802/102500450-e9724780-40ae-11eb-9931-47ce6f277094.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500450-e9724780-40ae-11eb-9931-47ce6f277094.png" width="500">
 
 ✨ SignUp
 
-<img src="https://user-images.githubusercontent.com/46896802/102500406-e11a0c80-40ae-11eb-8006-c11b616911e2.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500406-e11a0c80-40ae-11eb-8006-c11b616911e2.png" width="500">
 
 ✨ Forgot Password
 
-<img src="https://user-images.githubusercontent.com/46896802/102500477-ef682880-40ae-11eb-9e7d-36f0bed97f8e.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500477-ef682880-40ae-11eb-9e7d-36f0bed97f8e.png" width="500">
 
 ✨ Home
 
-<img src="https://user-images.githubusercontent.com/46896802/102500502-f727cd00-40ae-11eb-9ff0-1b01e94752cb.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500502-f727cd00-40ae-11eb-9ff0-1b01e94752cb.png" width="500">
 
 ✨ Transfer
 
-<img src="https://user-images.githubusercontent.com/46896802/102502559-58e93680-40b1-11eb-9411-b64d37b9bd0c.png">
+<img src="https://user-images.githubusercontent.com/46896802/102502559-58e93680-40b1-11eb-9411-b64d37b9bd0c.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102502564-5a1a6380-40b1-11eb-8d3b-4336d8cb6d86.png">
+<img src="https://user-images.githubusercontent.com/46896802/102502564-5a1a6380-40b1-11eb-8d3b-4336d8cb6d86.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102502566-5ab2fa00-40b1-11eb-82ce-1757031f7869.png">
+<img src="https://user-images.githubusercontent.com/46896802/102502566-5ab2fa00-40b1-11eb-82ce-1757031f7869.png" width="500">
 
 ✨ Profile
 
-<img src="https://user-images.githubusercontent.com/46896802/102500610-145c9b80-40af-11eb-86dc-ee751d8fc7ac.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500610-145c9b80-40af-11eb-86dc-ee751d8fc7ac.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102502569-5b4b9080-40b1-11eb-8998-b465f6094dc3.png">
+<img src="https://user-images.githubusercontent.com/46896802/102502569-5b4b9080-40b1-11eb-8998-b465f6094dc3.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102500618-16bef580-40af-11eb-884a-da35c3a478aa.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500618-16bef580-40af-11eb-884a-da35c3a478aa.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102500622-17f02280-40af-11eb-8148-4288c83c95b3.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500622-17f02280-40af-11eb-8148-4288c83c95b3.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102500626-17f02280-40af-11eb-8f20-f5e50f2a5170.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500626-17f02280-40af-11eb-8f20-f5e50f2a5170.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/46896802/102500629-19214f80-40af-11eb-8648-cdc84479872d.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500629-19214f80-40af-11eb-8648-cdc84479872d.png" width="500">
 
 ✨ Topup
 
-<img src="https://user-images.githubusercontent.com/46896802/102500631-19b9e600-40af-11eb-9ba6-4ec5a11fe35f.png">
+<img src="https://user-images.githubusercontent.com/46896802/102500631-19b9e600-40af-11eb-9ba6-4ec5a11fe35f.png" width="500">
 
 ### Install dependencies using npm or yarn
 
