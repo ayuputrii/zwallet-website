@@ -93,5 +93,5 @@ yarn OR npm i
 ### Running App
 
 ```
-yarn android and yarn start or react-native run-android
+yarn start
 ```
